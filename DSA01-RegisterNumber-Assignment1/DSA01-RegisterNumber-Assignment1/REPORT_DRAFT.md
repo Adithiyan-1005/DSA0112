@@ -1,8 +1,8 @@
 # Assignment 1 Report Draft
 
 **Assignment title:** Design, Implement and Validate the Fare Logic of a City Metro Smart-Card System  
-**Student:** [Enter your full name]  
-**Register number:** [Enter your register number]  
+**Student:** [S.Adithiyan]  
+**Register number:** [1925260197]  
 **GitHub repository:** [Paste your working repository URL after publishing]
 
 ## Environment and method
